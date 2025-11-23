@@ -1,4 +1,4 @@
-# HOSTEL-HYGENE-REPORT-SYSTEM
+# HOSTEL-HYGIENE-REPORT-SYSTEM
 Simple Python project for hostel hygiene reporting.
 
 ##Project overview:
